@@ -3,13 +3,13 @@ manifest:
     - name: DavBan
       url-base: https://github.com/DavBan
   projects:
-    - name: sample
+    - name: historique
       remote: DavBan
-      repo-path: sample.git
+      repo-path: historique.git
       revision: main
-      path: sample
+      path: historique
     - name: testing
       remote: DavBan
       repo-path: testing.git
       revision: main
-      path: sample/testing
+      path: historique/testing
