@@ -7,4 +7,4 @@ manifest:
       remote: DavBan
       repo-path: testing.git
       revision: main
-      path: sample/tests/testing
+      path: ecryme-perso/tests/testing

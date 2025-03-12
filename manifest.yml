@@ -6,13 +6,8 @@ manifest:
     import: deps.yml
     import: tests.yml
   projects:
-    - name: sample
+    - name: ecryme-perso
       remote: DavBan
-      repo-path: sample.git
+      repo-path: ecryme-perso.git
       revision: main
-      path: sample
-    - name: testing
-      remote: DavBan
-      repo-path: testing.git
-      revision: main
-      path: sample/testing
+      path: ecryme-perso
