@@ -1,0 +1,4 @@
+manifest:
+  remotes:
+    - name: DavBan
+      url-base: https://github.com/DavBan

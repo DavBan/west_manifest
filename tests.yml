@@ -2,12 +2,9 @@ manifest:
   remotes:
     - name: DavBan
       url-base: https://github.com/DavBan
-  self:
-    import: deps.yml
-    import: tests.yml
   projects:
-    - name: historique
+    - name: testing
       remote: DavBan
-      repo-path: historique.git
+      repo-path: testing.git
       revision: main
-      path: historique
+      path: historique/tests/testing
