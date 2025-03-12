@@ -2,6 +2,9 @@ manifest:
   remotes:
     - name: DavBan
       url-base: https://github.com/DavBan
+  self:
+    import: deps.yml
+    import: tests.yml
   projects:
     - name: sample
       remote: DavBan

@@ -1,0 +1,10 @@
+manifest:
+  remotes:
+    - name: DavBan
+      url-base: https://github.com/DavBan
+  projects:
+    - name: testing
+      remote: DavBan
+      repo-path: testing.git
+      revision: main
+      path: sample/tests/testing
