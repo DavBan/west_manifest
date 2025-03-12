@@ -6,5 +6,5 @@ manifest:
     - name: historique
       remote: DavBan
       repo-path: historique.git
-      revision: 0.0.1_rc1
+      revision: 0.0.1_rc2
       path: ecryme-perso/utils/historique
